@@ -1,1 +1,6 @@
 /* Components */
+
+img {
+
+	@mixin ar 1, 1;
+}
